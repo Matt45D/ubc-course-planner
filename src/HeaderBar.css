@@ -1,0 +1,18 @@
+.Header {
+    background-color: #101e3d;
+    min-height: calc(8px + 2vmin);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+.Menu {
+    vertical-align: bottom;
+    height: calc(8px + 6vmin);
+    width: calc(8px + 6vmin);
+  }
+.Child-header {
+    flex: 1;
+  }
